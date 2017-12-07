@@ -2,4 +2,4 @@
 test
 
 Hi!
-Thos is just a fucking test.
+This is just a fucking test.
